@@ -29,6 +29,7 @@ Choose one or all 3, make a Pull Request for your work, wait for it to be merged
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 ```markdown
+
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 * Create a branch
