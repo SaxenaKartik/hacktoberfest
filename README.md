@@ -19,15 +19,15 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ## How Contribute to This Project
 Here are 3 quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file
-* Add a Profile Page to the `profiles` directory
-* Create a simple 'Hello, World' script in a language of your choice
+* Add your name to the `CONTRIBUTORS.md` file.
+* Add a Profile Page to the `profiles` directory.
+* Create a simple 'Hello, World' script in a language of your choice.
 
 Choose one or all 3, make a Pull Request for your work, wait for it to be merged!
 
 ## Getting Started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+* Clone your fork down to your local machine.
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
 ```
@@ -88,7 +88,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+### 3. Create a `Hello, World!` Script.
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
@@ -120,4 +120,4 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ## Additional References Added By Contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+GitHub license explained. [https://choosealicense.com](https://choosealicense.com)
