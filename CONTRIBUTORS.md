@@ -694,3 +694,9 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Kartik Saxena](https://github.com/SaxenaKartik)
+- Place : Uttar Pradesh, India
+- Bio : CSE student at NIT Hamirpur
+- GitHub: [Kartik Saxena](https://github.com/SaxenaKartik)
+
